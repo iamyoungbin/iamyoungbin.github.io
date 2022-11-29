@@ -19,8 +19,8 @@ locale                   : "ko-KR"
 title                    : "Wonderwall"
 title_separator          : "-"
 subtitle                 : 
-name                     : "iamyoungbin"
-description              : "An amazing website."
+name                     : "Wonderwall"
+description              : "iamyoungbin / Devlog."
 url                      : "https://iamyoungbin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/iamyoungbin/iamyoungbin.github.io"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "iamyoungbin"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Hello World!"
+  bio              : "You'll never forget my name"
   location         : "South Korea"
   email            :
   links:
