@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Wonderwall"
+title                    : "I Hope I Think I Know"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Wonderwall"
+name                     : "iamyoungbin"
 description              : "iamyoungbin / Devlog."
 url                      : "https://iamyoungbin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "iamyoungbin"
-  avatar           : "/assets/images/avatar.jpg"
+  avatar           : "/assets/images/avatar/avatar.jpg"
   bio              : "You'll never forget my name"
   location         : "South Korea"
   email            :
