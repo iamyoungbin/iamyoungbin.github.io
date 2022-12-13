@@ -1,5 +1,5 @@
 ---
-title: "다익스트라(Dijkstra) 알고리즘"
+title: "[Algorithm] 다익스트라(Dijkstra) 알고리즘"
 excerpt: "최단 경로 알고리즘의 한 종류인 다익스트라 알고리즘에 대해서 알아보자."
 
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - [algorithm]
 
-permalink: /ps/algo-dijkstra/
+permalink: /algorithm/dijkstra/
 
 toc: true
 toc_sticky: true
