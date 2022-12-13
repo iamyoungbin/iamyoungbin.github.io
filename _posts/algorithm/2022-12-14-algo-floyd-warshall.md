@@ -1,5 +1,5 @@
 ---
-title: "[Algorithm] 플로이드-워셜(Floyd-Warshall) 알고리즘"
+title: "플로이드-워셜(Floyd-Warshall) 알고리즘"
 excerpt: "최단 경로 알고리즘의 한 종류인 플로이드-워셜 알고리즘에 대해서 알아보자."
 
 categories:
