@@ -20,9 +20,9 @@ last_modified_at: 2023-01-30
 
 <https://school.programmers.co.kr/learn/courses/30/lessons/59041>
 
-<img src="/assets/images/programmers/mysql-1/problem.png" alt="problem"><br/>
+<img src="/assets/images/programmers/mysql-1/problem.PNG" alt="problem"><br/>
 <br/>
-<img src="/assets/images/programmers/mysql-1/example.png" alt="example"><br/>
+<img src="/assets/images/programmers/mysql-1/example.PNG" alt="example"><br/>
 
 ## Idea
 
