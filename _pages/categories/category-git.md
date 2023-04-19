@@ -1,9 +1,9 @@
 ---
-title: "BOJ"
+title: "Git"
 layout: category
-permalink: /categories/ps/
+permalink: /categories/git/
 author_profile: true
-taxonomy: BOJ
+taxonomy: Git
 sidebar:
   nav: "categories"
 ---

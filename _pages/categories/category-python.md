@@ -1,9 +1,9 @@
 ---
-title: "BOJ"
+title: "Python"
 layout: category
-permalink: /categories/ps/
+permalink: /categories/python/
 author_profile: true
-taxonomy: BOJ
+taxonomy: Python
 sidebar:
   nav: "categories"
 ---

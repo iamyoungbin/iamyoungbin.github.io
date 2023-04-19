@@ -1,9 +1,9 @@
 ---
-title: "BOJ"
+title: "Django"
 layout: category
-permalink: /categories/ps/
+permalink: /categories/django/
 author_profile: true
-taxonomy: BOJ
+taxonomy: Django
 sidebar:
   nav: "categories"
 ---
